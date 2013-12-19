@@ -5,6 +5,9 @@ Set the start and end location and Density. Click on "Create Video". Once the re
 The video will fail to load if the Google API Key I am using hits the Quota. In that case, set the KEY in app.py and static/js/map.js
 
 Dependencies:
+
 Python
+
 Flask
+
 mencoder
