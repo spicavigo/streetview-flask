@@ -1,0 +1,8 @@
+*~
+*.o
+*.so
+*.bin
+*.cmake
+*.pyc
+*.dylib
+*.swp
